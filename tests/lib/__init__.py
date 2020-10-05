@@ -1,0 +1,1 @@
+from .tetanus import Tetanus
